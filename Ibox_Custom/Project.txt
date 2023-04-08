@@ -1,0 +1,8 @@
+PROJECT ACE-HARDWARE
+
+-> Referensi (Coffe Menu Freecodecamp)
+-> Navbar
+-> Berbentuk Landing page
+-> Banyak Efek hover (Animasi box-shadow, transform, transition)
+-> Terdiri dari beberapa page
+-> Semua property dan value yang dipelajari di UNPAS. Diaplikasikan. 
