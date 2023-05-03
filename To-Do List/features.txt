@@ -1,1 +1,7 @@
-Fitur-fitur yang ingin ditambahkan antara lain:
+To-do list sederhana
+- Fitur Add task (button "+")
+  - ketika di klik memuncukan checkbox
+    - ketika checkbox = true, text di strikethrough
+- Fitur hapus 
+
+
