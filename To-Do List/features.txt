@@ -5,3 +5,5 @@ To-do list sederhana
 - Fitur hapus 
 
 
+PSEUDOCODE
+- untuk add task-nya, nggak perlu susah2 kali, kayak Google task aja begitu click, create element yang udah include chcekbox, input text and so on
