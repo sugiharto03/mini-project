@@ -7,9 +7,14 @@ body{
     width: 100%;
 }
 
-.task input{
-    display: block;
-    margin: 20px;
+.wrapTask{
+    display: flex;
+    margin-bottom: 10px;
 }
+
+.check{
+    margin-right: 10px;
+}
+
 
 
