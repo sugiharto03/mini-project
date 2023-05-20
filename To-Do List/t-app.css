@@ -1,13 +1,30 @@
-html{
+html,body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
 
-body{
+/* padding: 10px berfungsi memberikan space tambahan untuk margin di class outer */
+main{
+    width: 100%;
+    padding: 10px;
+    min-height: 100vh;
+    box-sizing: border-box;
     background: linear-gradient(135deg, #2A2F4F 27.3%, #444368 48.09%, #917FB3 98.41%);
+}
 
+/* top: 100px, right-left: auto, bottom: 20px */
+.outer{
+    background: #fff;
+    margin:  100px auto 20px;
+    width: 100%;
+    max-width: 600px;
+    padding: 40px 30px 70px;
+}
+
+.inner{
+    background: red;
 }
 
   
