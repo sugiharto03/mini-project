@@ -15,16 +15,50 @@ main{
 }
 
 /* top: 100px, right-left: auto, bottom: 20px */
-.outer{
+/* padding sebagai pengganti height */
+.app-body{
     background: #fff;
     margin:  100px auto 20px;
     width: 100%;
     max-width: 600px;
-    padding: 40px 30px 70px;
+    padding: 20px 30px 70px;
+    border-radius: 10px;
 }
 
-.inner{
-    background: red;
+.title-body,
+.button-add,
+.task{
+    display: flex;
 }
 
-  
+.title-body{
+    width: 100%;
+    font-size: 15px;
+    color:#2A2F4F ;
+    border-bottom: 2px solid #E5BEEC;
+}
+
+.title-body .title-icon{
+    padding: 30px 15px;
+}
+
+/* button setting */
+.button-icon{
+    padding: 10px 10px 0px 2px;
+}
+.button-placeholder{
+    padding: 12px 0px;
+    font-weight: 700;
+    color: #917FB3;
+}
+.button-add{
+    margin-bottom: 10px;
+}
+
+/* task setting */
+.task-setting{
+   /* untuk ini, buat dia before after aja pake icon  */
+}
+.task-desc{
+    background: blue;
+}
