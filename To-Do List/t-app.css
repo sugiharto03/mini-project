@@ -57,8 +57,10 @@ main{
 
 /* task setting */
 .task-setting{
-   /* untuk ini, buat dia before after aja pake icon  */
+   background-color: red;
 }
+/* untuk ini, buat dia before after aja pake icon  */
+
 .task-desc{
     background: blue;
 }
