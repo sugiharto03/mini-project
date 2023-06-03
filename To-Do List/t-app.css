@@ -43,7 +43,8 @@ main{
 }
 
 /* button setting */
-.button-icon{
+.button-icon,
+.task-setting{
     padding: 10px 10px 0px 2px;
 }
 .button-placeholder{
@@ -52,17 +53,23 @@ main{
     color: #917FB3;
 }
 .button-add{
-    margin-bottom: 10px;
+    /* background-color: grey; */
+    /* margin-bottom: 10px; */
 }
 
 /* task setting */
+.task{
+    padding-left: 5px;
+}
 .task-setting{
-   background-color: red;
+   /* background-color: red; */
 }
 /* untuk ini, buat dia before after aja pake icon  */
 
 .task-desc{
-    background: blue;
-    color: red;
-    
+    /* background: blue;
+    color: red; */
+}
+.desc{
+    padding-top: 6.5px;
 }
