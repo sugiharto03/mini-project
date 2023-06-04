@@ -9,3 +9,7 @@ PSEUDOCODE
 - untuk add task-nya, nggak perlu susah2 kali, kayak Google task aja begitu click, create element yang udah include chcekbox, input text and so on
 - buat efek pointer pas mouse hover di task-nya (kayak google task). soalnya kita nggak kasih shadow atau border samsek
 - kasih button untuk edit task
+
+--current situation
+1. Mau ganti div jadi textarea (untuk CSS ikuti yang di google docs)
+2. baru lanjutkan javascript wrapping-nya.
