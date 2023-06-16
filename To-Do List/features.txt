@@ -11,5 +11,5 @@ PSEUDOCODE
 - kasih button untuk edit task
 
 --current situation
-1. Mau ganti div jadi textarea (untuk CSS ikuti yang di google docs)
-2. baru lanjutkan javascript wrapping-nya.
+1. untuk skema enter - "new task" pake javascript untuk mengatasi event keydown (udah ada di chatGPT)
+2. 
