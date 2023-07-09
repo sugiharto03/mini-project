@@ -90,3 +90,7 @@ main{
 } */
 
 /* hover effect */
+.button-placeholder:hover{
+    color: #ddd;
+    transition: .3s;
+}
